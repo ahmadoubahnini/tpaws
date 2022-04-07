@@ -1,6 +1,6 @@
 {
   "ipcMode": null,
-  "executionRoleArn": "arn:aws:iam::754308483532:role/ecsTaskExecutionRole",
+  "executionRoleArn": "arn:aws:iam::639962416620:role/ecsTaskExecutionRole",
   "containerDefinitions": [
     {
       "dnsSearchDomains": null,
@@ -62,7 +62,7 @@
     "EC2",
     "FARGATE"
   ],
-  "taskDefinitionArn": "arn:aws:ecs:eu-west-3:754308483532:task-definition/firstRun:1",
+  "taskDefinitionArn": "arn:aws:ecs:eu-west-3:639962416620:task-definition/firstRun:1",
   "family": "firstRun",
   "requiresAttributes": [
     {
